@@ -1082,7 +1082,7 @@
                     "support": "Unknown"
                 },
                 "Firefox": {
-                    "support": "No"
+                    "support": "50.0"
                 }
             }
         },
@@ -1136,7 +1136,7 @@
                     "support": "Unknown"
                 },
                 "Firefox": {
-                    "support": "No"
+                    "support": "50.0"
                 }
             }
         },
